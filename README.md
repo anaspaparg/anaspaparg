@@ -14,4 +14,4 @@ JAVA / JS / HTML / CSS / SQL
 ## Github Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaspaparg)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaspaparg&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaspaparg&layout=compact)
